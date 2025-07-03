@@ -6236,7 +6236,7 @@ teams = [
 
 wnba_teams = [
     [1611661313, "NYL", "Liberty", 1997, "New York", "New York Liberty", "New York", [2024]],
-    [1611661317, "PHO", "Mercury", 1997, "Phoenix", "Phoenix Mercury", "Arizona", [2007, 2009, 2014]],
+    [1611661317, "PHX", "Mercury", 1997, "Phoenix", "Phoenix Mercury", "Arizona", [2007, 2009, 2014]],
     [1611661319, "LVA", "Aces", 1997, "Las Vegas", "Las Vegas Aces", "Nevada", [2022, 2023]],
     [1611661320, "LAS", "Sparks", 1997, "Los Angeles", "Los Angeles Sparks", "California", [2001, 2002, 2016]],
     [1611661321, "DAL", "Wings", 1998, "Dallas", "Dallas Wings", "Texas", [2003, 2006, 2008]],
